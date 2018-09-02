@@ -233,4 +233,9 @@ func convertBodyToString(body io.ReadCloser) string {
 }
 
 func main() {
+	/*
+		Step 1: Create servers and virtual servers.
+		Step 2: Create pools.
+		Step 3: Create a wide ip.
+	*/
 }
